@@ -6,4 +6,4 @@
 
 ## Main Repository
 
-- [Click Here](https://github.com/ronaldyganteng/botmusiktelegram)
+- [Click Here](https://github.com/ronaldyganteng/musiktelegram)
